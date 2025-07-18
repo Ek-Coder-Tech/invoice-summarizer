@@ -49,11 +49,23 @@ Edit
    
 ---
 
-## 🧑‍💻 Author
+## 🙌 Author
 
-Eric Mutisya  
-Python Developer | Task Automation & Simple Tools
-
-GitHub Profile: https://github.com/Ek-Coder-Tech
-
+**Eric Mutisya**  
+Python Developer | Web Developer | Freelancer  
 Upwork Profile: https://www.upwork.com/freelancers/~012558bab6232e8e65
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this project with attribution.
+
+---
+
+## 🙋‍♂️ Author's Note
+
+This project was built as part of my practical journey into freelance development using Python.  
+If you're a client looking for a similar automation or document solution — I'd be happy to help!  
+Let’s connect on [Upwork](https://www.upwork.com/freelancers/~012558bab6232e8e65) or [GitHub](https://github.com/Ek-Coder-Tech).
